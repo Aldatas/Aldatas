@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aldatas
+- 👋 Hi
 - 👀 I’m interested in Artifical Intelligence/Machine Learning, BCI's, code that contributes to the improvement of life in a way
 - 🌱 I’m currently learning everything that gets me motivated
 - 💞️ I’m looking to collaborate on anything related to my interests, particularly AI
