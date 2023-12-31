@@ -1,7 +1,7 @@
 - 👋 Hi
-- 👀 I’m interested in Artifical Intelligence/Machine Learning, BCI's, technology that contributes to the improvement of life in a way
+- 👀 I’m interested in Software Development, specifically Game Development and creating immersive experiences, as well as AI.
 - 🌱 I’m currently learning everything that gets me motivated
-- 💞️ I’m looking to collaborate on anything related to my interests, particularly AI
+- 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 How to reach me: github
 
 <!---
